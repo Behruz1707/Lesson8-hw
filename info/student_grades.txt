@@ -1,0 +1,8 @@
+101,Anna Smith,Java,90,87,64,67,81
+102,David Achilles,Python,87,88,56,98,76,45
+103,Frank Fetcher,Frontend,86,44,67,76,88
+104,Christ Moles,AWS,78,88,98,78,88
+105,Andrew Tate,Blockchain,76,78,67,88,98
+106,Simon Fletcher,AI,77,78,88,87,98
+107,Malik Shakh,UI/UX,67,76,88,78,99
+108,Olga Grigorian, Design,77,78,87,99,77

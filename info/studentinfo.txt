@@ -1,0 +1,64 @@
+Student id : 101
+Student name : Anna Smith
+Student course : Java
+Total exam score : 241
+Total assignment score : 148
+Final  grade  : 78.43333333333332%
+
+--------------------
+Student id : 102
+Student name : David Achilles
+Student course : Python
+Total exam score : 231
+Total assignment score : 174
+Final  grade  : 80.0%
+
+--------------------
+Student id : 103
+Student name : Frank Fetcher
+Student course : Frontend
+Total exam score : 197
+Total assignment score : 164
+Final  grade  : 70.56666666666666%
+
+--------------------
+Student id : 104
+Student name : Christ Moles
+Student course : AWS
+Total exam score : 264
+Total assignment score : 166
+Final  grade  : 86.5%
+
+--------------------
+Student id : 105
+Student name : Andrew Tate
+Student course : Blockchain
+Total exam score : 221
+Total assignment score : 186
+Final  grade  : 79.46666666666667%
+
+--------------------
+Student id : 106
+Student name : Simon Fletcher
+Student course : AI
+Total exam score : 243
+Total assignment score : 185
+Final  grade  : 84.44999999999999%
+
+--------------------
+Student id : 107
+Student name : Malik Shakh
+Student course : UI/UX
+Total exam score : 231
+Total assignment score : 177
+Final  grade  : 80.45%
+
+--------------------
+Student id : 108
+Student name : Olga Grigorian
+Student course :  Design
+Total exam score : 242
+Total assignment score : 176
+Final  grade  : 82.86666666666667%
+
+--------------------
