@@ -38,6 +38,3 @@ public class Main {
         bw.write(String.valueOf(stringBuilder));
         bfr.close();
         bw.close();
-
-    }
-}
